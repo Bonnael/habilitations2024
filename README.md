@@ -69,3 +69,7 @@ Pour tester une version, il faut d'abord installer les outils suivants :<br>
 Il faut ensuite :<br>
 . Dans MySQL, exécuter le script contenu dans habilitations.sql (présent en racine du dépôt) pour créer et remplir la BDD.<br>
 . Récupérer le code du commit voulu, l'ouvrir dans l'IDE et l'exécuter.
+
+## README réalisé par le cned
+
+https://github.com/CNED-SLAM/habilitations2024
